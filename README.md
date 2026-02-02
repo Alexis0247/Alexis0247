@@ -43,11 +43,4 @@ Script diseñado para organizar directorios saturados (como "Descargas") mediant
 - **Tech:** Python (Scripting & Automation).
 - **Funcionalidad:** Clasificación multicapa por extensión, lógica de exclusión de seguridad y manejo de errores (archivos en uso/permisos).
 
----
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexis0247&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis0247&layout=compact&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
-</div>
